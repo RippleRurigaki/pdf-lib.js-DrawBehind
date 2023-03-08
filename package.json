@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RippleRurigaki/pdf-lib.js-DrawBehind/issues"
   },
-  "homepage": "https://github.com/RippleRurigaki/pdf-lib.js-DrawBehind#readme"
+  "homepage": "https://github.com/RippleRurigaki/pdf-lib.js-DrawBehind#readme",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
 }
